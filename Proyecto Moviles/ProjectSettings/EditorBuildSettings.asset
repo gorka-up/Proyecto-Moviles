@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MenuPrincipal.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Minijuego_Normal.unity
+    guid: 2fb37d172efec2744932420e22735278
+  - enabled: 1
+    path: Assets/Scenes/Minijuego_GPS.unity
+    guid: 039e608b652894b4da3217a3a94efc07
+  - enabled: 1
+    path: Assets/Scenes/Minijuego_AR.unity
+    guid: 5583cd7a7cb98e14c87c02a7cec0bf89
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
